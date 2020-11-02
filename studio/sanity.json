@@ -1,8 +1,8 @@
 {
   "root": true,
   "api": {
-    "projectId": "placeholder",
-    "dataset": "placeholder"
+    "projectId": "4vhdywvb",
+    "dataset": "production"
   },
   "project": {
     "name": "review-changes-launch-demo",

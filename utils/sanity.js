@@ -1,9 +1,13 @@
+import dotenv from 'dotenv';
+
 import {
   createClient,
   createImageUrlBuilder,
   createPortableTextComponent,
   createPreviewSubscriptionHook
 } from 'next-sanity'
+
+dotenv();
 
 const config = {
   /**
