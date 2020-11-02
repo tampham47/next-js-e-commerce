@@ -7,7 +7,7 @@ import {
   createPreviewSubscriptionHook
 } from 'next-sanity'
 
-dotenv();
+dotenv.config();
 
 const config = {
   /**
